@@ -42776,23 +42776,19 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 
-@media (max-width: 575px) {
-  .u-header .u-image-1 {
-    left: 0;
-  }
-}
+
  .u-footer {
   background-image: none;
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 120px;
+  min-height: 22px;
 }
 
 .u-footer .u-text-1 {
   width: 417px;
   font-size: 1.125rem;
-  margin: 49px auto;
+  margin: 0 auto;
 }
 
 .u-footer .u-btn-1 {
@@ -42802,22 +42798,22 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
-    min-height: 99px;
+    min-height: 1px;
   }
 }
 @media (max-width: 991px) {
   .u-footer .u-sheet-1 {
-    min-height: 76px;
+    min-height: 7px;
   }
 }
 @media (max-width: 767px) {
   .u-footer .u-sheet-1 {
-    min-height: 57px;
+    min-height: 5px;
   }
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 36px;
+    min-height: 0;
   }
 
   .u-footer .u-text-1 {
